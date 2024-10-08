@@ -1,10 +1,10 @@
 <?php
 
 $data = array(
-    "nama" => "Aliffian Akbar Hariyanto",
-    "usia" => 18,
+    "nama" => "Mochamad Pujangga Aldamas Fidel Ezra",
+    "usia" => 20,
     "pekerjaan" => "Mahasiswa",
-    "NIM" => "G.211.22.0122"
+    "NIM" => "G.211.22.0002"
 );
 
 $json_data = json_encode($data);
