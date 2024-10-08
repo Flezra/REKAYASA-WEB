@@ -1,10 +1,10 @@
 <?php
 
 $json_string = '{
-    "nama": "Aliffian Akbar Hariyanto",
-    "NIM": "G.211.22.0122",
-    "usia": 18,
-    "pekerjaan": "Mahasiswa"
+    "nama": "Mochamad Pujangga Aldamas Fidel Ezra",
+    "NIM": "G.211.22.0002",
+    "usia": 20,
+    "pekerjaan": "Astronot"
 }';
 
 $data_object = json_decode($json_string);
